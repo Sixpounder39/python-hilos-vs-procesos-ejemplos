@@ -1,0 +1,10 @@
+Prueba 1: Threading: 6.57s, Multiprocessing: 1.80s
+Prueba 2: Threading: 6.54s, Multiprocessing: 1.79s
+Prueba 3: Threading: 6.49s, Multiprocessing: 1.82s
+Prueba 4: Threading: 6.49s, Multiprocessing: 1.80s
+Prueba 5: Threading: 6.51s, Multiprocessing: 1.81s
+Prueba 6: Threading: 7.18s, Multiprocessing: 2.05s
+Prueba 7: Threading: 6.45s, Multiprocessing: 1.90s
+Prueba 8: Threading: 6.43s, Multiprocessing: 1.99s
+Prueba 9: Threading: 6.45s, Multiprocessing: 1.87s
+Prueba 10: Threading: 6.49s, Multiprocessing: 2.02s
