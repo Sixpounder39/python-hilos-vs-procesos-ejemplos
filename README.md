@@ -51,7 +51,7 @@ Para complementar estos ejemplos y entender mejor los conceptos, te invito a lee
 - [Conceptos básicos de concurrencia en Python](https://www.linkedin.com/posts/luis-armando-escobar-macias_conceptos-b%C3%A1sicos-de-concurrencia-python-activity-7345287962625986560-seNb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFo-20EB4H4UhACd3la_z-EK0Vhy5f1Y6zE)  
     Una introducción clara y sencilla para entender qué es la concurrencia y paralelismo en Python.
 
-- [Global Interpreter Lock (GIL) en Python: ¿qué es y por qué importa?](#)  
+- [Global Interpreter Lock (GIL) en Python: ¿qué es y por qué importa?](https://www.linkedin.com/posts/luis-armando-escobar-macias_gil-python-activity-7350902040115458048-ckmc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFo-20EB4H4UhACd3la_z-EK0Vhy5f1Y6zE)  
     Explicación del GIL de Python
 
 Estos posts explican los conceptos con analogías y ejemplos para hacer el aprendizaje más fácil y ameno.
